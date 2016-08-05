@@ -1,0 +1,25 @@
+_repo: Wild-Flowers--or-Pastoral-and-Local-Poetry_9094
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Bloomfield, Robert
+    birthdate: 1766
+    deathdate: 1823
+    gutenberg_agent_id: '2953'
+    url: http://www.gutenberg.org/2009/agents/2953
+    wikipedia: http://en.wikipedia.org/wiki/Robert_Bloomfield
+description: ''
+gutenberg_issued: '2005-10-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '9094'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Pastoral poetry, English'
+- !lcc 'PR'
+- GITenberg
+title: Wild Flowers; or, Pastoral and Local Poetry
+url: http://www.gutenberg.org/ebooks/9094
